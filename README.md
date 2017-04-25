@@ -1,4 +1,7 @@
-# api documentation for  [mongoose-voting (v0.3.0)](https://github.com/cristiandouce/mongoose-voting#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-mongoose-voting.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-mongoose-voting) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-mongoose-voting.svg)](https://travis-ci.org/npmdoc/node-npmdoc-mongoose-voting)
+# npmdoc-mongoose-voting
+
+#### basic api documentation for  [mongoose-voting (v0.3.0)](https://github.com/cristiandouce/mongoose-voting#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-mongoose-voting.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-mongoose-voting) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-mongoose-voting.svg)](https://travis-ci.org/npmdoc/node-npmdoc-mongoose-voting)
+
 #### Mongoose plugin to upvote/downvote stuff. Extends any model with handy methods for voting.
 
 [![NPM](https://nodei.co/npm/mongoose-voting.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/mongoose-voting)
@@ -61,7 +64,8 @@
     "scripts": {
         "test": "make test"
     },
-    "version": "0.3.0"
+    "version": "0.3.0",
+    "bin": {}
 }
 ```
 
